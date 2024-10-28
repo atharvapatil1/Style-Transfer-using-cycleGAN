@@ -36,7 +36,7 @@ pip install torch torchvision numpy matplotlib
 ## Usage
 1) Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/kajolshah310/Style_transfer_using_CycleGAN.git
+git clone https://github.com/atharvapatil1/Style-Transfer-using-cycleGAN
 ```
 2) Navigate to the repository's directory:
 ```
